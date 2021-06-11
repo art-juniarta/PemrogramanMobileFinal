@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Penanda Buku</string>
+    <string name="enter_title">Masukkan Judul Buku</string>
+    <string name="enter_author">Masukkan Nama Penulis</string>
+
+    <string name="enter_page">Masukkan Halaman</string>
+    <string name="enter_read">Saya membaca bukunya</string>
+    <string name="add_button">Tambahkan</string>
+    <string name="save_button">Tambahkan</string>
+
+</resources>
